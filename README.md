@@ -10,17 +10,15 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 📊 Мои аспекты парадигмы 
-Спорт
-Любовь
-Вера
-## 📂 Ключевые проекты
-- **[Calculus Tool](https://github.com/Plombir-098/calculus_tool)** — библиотека для математических вычислений
-- **[Data Analysis](https://github.com/Plombir-098)** — проект анализа данных
-- **[ML Research](https://github.com/Plombir-098)** — исследование по машинному обучению
+## 🚧 Над чем работаю сейчас
+- Изучаю Python и библиотеки для анализа данных
+- Осваиваю Git и GitHub для контроля версий
+- Готовлю свои первые проекты к публикации
+
+## 📊 Моя активность на GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Plombir-098&show_icons=true&theme=radical)
 
 ## 📫 Связь со мной
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub)](https://github.com/Plombir-098)
@@ -29,4 +27,4 @@
 
 ---
 
-*«Код — это поэзия, которая исполняется»* ✨
+*«Скоро здесь появятся мои первые проекты!»* 💫
