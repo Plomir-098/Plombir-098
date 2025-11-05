@@ -13,12 +13,10 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 📊 Моя активность на GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Plombir-098&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Plombir-098&layout=compact&theme=radical)
-
+## 📊 Мои аспекты парадигмы 
+Спорт
+Любовь
+Вера
 ## 📂 Ключевые проекты
 - **[Calculus Tool](https://github.com/Plombir-098/calculus_tool)** — библиотека для математических вычислений
 - **[Data Analysis](https://github.com/Plombir-098)** — проект анализа данных
